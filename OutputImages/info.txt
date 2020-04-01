@@ -1,0 +1,1 @@
+The images in this folder are created in your python working directory.
