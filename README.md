@@ -1,7 +1,7 @@
 # DIPcourse_Proj
-##Removal of hair from digital images
+## Removal of hair from digital images
 
-###Performing Morphological Blackhat filtering on grayscale image for hair contours. Then applying an inpaint algorithm.
+### Performing Morphological Blackhat filtering on grayscale image for hair contours. Then applying an inpaint algorithm.
 
 _Input_
 
